@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant garland of joy and delight compos'd of nine pleasant new songs upon this late and prosperous change. Licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56090</idno><idno type="EEBO-CITATION">99831053</idno>
+  <idno type="VID">35515</idno>
+  <idno type="EEBO-PROQUEST">2240942405</idno>
+  
+            <idno type="STC">Wing P3834</idno>
+            <idno type="STC">ESTC R219592</idno>
+            <idno type="PROQUEST">99831053</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831053e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2038:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant garland of joy and delight compos'd of nine pleasant new songs upon this late and prosperous change. Licensed according to order.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. T[hackeray],</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing; place of publication conjectured by cataloger.</note>
+                  <note>Additional title page on A2r lists contents.</note>
+                  <note>In verse.</note>
+                  <note>Running title reads: The Protestant garland.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Cropped at foot with loss of some signatures; some print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Protestants --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Songs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35515:1"/>
+            <p>THE <hi>Protestant</hi> GARLAND Of Joy and Delight: Compos'd of Nine pleasant New Songs Upon this late and prosperous Change.</p>
+            <p>
+               <hi>Licensed according to Order.</hi>
+            </p>
+            <p>Printed for <hi>M. C.</hi> 1689.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:35515:2"/>
+            <pb facs="tcp:35515:2"/>
+            <p>THE Protestant GARLAND Of Joy and Delight: Compos'd of Nine Pleasant New Songs, Upon this late and Prosperous Change.</p>
+            <list>
+               <item>1. The Prince of <hi>Orange</hi>'s Welcome to <hi>London.</hi>
+               </item>
+               <item>2. A late Monarchs Contemplation upon his Mis<g ref="char:EOLunhyphen"/>fortunes.</item>
+               <item>3. The Prince of <hi>Orange</hi> joyfully received by th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Citizens of <hi>London.</hi>
+               </item>
+               <item>4. <hi>Rome</hi> in Confusion, Or, The <hi>Jesuits</hi> put to their Flight.</item>
+               <item>5. The <hi>Popes</hi> Letter to the <hi>Jesuits</hi> in <hi>Newgate.</hi>
+               </item>
+               <item>6. The Valliant Soldiers Resolution to Conquer <hi>Tyrconnel</hi> and his <hi>Irish</hi> Crew.</item>
+               <item>7. The Deserved praise of the <hi>WEST.</hi>
+               </item>
+               <item>8. A Touch of the <hi>Jesuit Plots,</hi> from the Reign of Queen <hi>Elizabeth,</hi> to this present Year,</item>
+               <item>9. the <hi>Protestants</hi> Loyal Health.</item>
+            </list>
+            <p>All Pleasant and Delightful both for City and Country.</p>
+            <p>Licensed according to Order.</p>
+            <p>Printed <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="collection_of_songs">
+            <pb facs="tcp:35515:3"/>
+            <head>THE <hi>Protestant</hi> Garland, <hi>&amp;c.</hi>
+            </head>
+            <div type="song">
+               <head>The Prince of <hi>Orange</hi>'s Welcome to <hi>England.</hi>
+               </head>
+               <opener>Tune is, <hi>Cannons Roar.</hi>
+               </opener>
+               <lg>
+                  <l>SUbjects did rejoyce and sing,</l>
+                  <l>And the Peals of Bells did Ring,</l>
+                  <l>When the Prince, who now is King,</l>
+                  <l>Came to this Land and Nation</l>
+                  <l>With his vast Commanding Fleet,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ittains</hi> Blessings to compleat,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aking <hi>Romans</hi> to Retreat,</l>
+                  <l>Tho' much to their vexation.</l>
+               </lg>
+               <lg>
+                  <l>They no sooner came to shore,</l>
+                  <l>But we bid them welcome o're,</l>
+                  <l>Knowing they would soon restore</l>
+                  <l>The Church to all her Splendor;</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r when <hi>Brittain</hi> made her moan,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is Prince came to Guard the Throne,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>herefore unto her alone</l>
+                  <l>Our Hearts we will surrender.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow this Prince of Royal Fame,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen to <hi>Exeter</hi> he came,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Soul did then proclaim</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ir Joy for this Adventure.</l>
+                  <pb facs="tcp:35515:3"/>
+                  <l>There was not a drooping Soul,</l>
+                  <l>But would drink his flowing Bowl,</l>
+                  <l>Guns went off, and Bells did troul,</l>
+                  <l>as he the Gates did enter.</l>
+               </lg>
+               <lg>
+                  <l>Acclamations did resound,</l>
+                  <l>Bended Knees unto the ground,</l>
+                  <l>While the Noble Healths went round</l>
+                  <l>from Prince to each Commander,</l>
+                  <l>Who had Plow'd the Ocean Main,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rittains</hi> freedom to regain,</l>
+                  <l>Rather than their Courage stain,</l>
+                  <l>they'd trace Great <hi>Alexander.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll the chief Nobility,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ords, Dukes, Earls, and Gentry,</l>
+                  <l>Did with one consent agree,</l>
+                  <l>to stand with all their power,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y this most Renowned Prince,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> our Lawful just Defence,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or to drive the <hi>Romans</hi> hence,</l>
+                  <l>who would our Laws devour.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rst the good Lord <hi>D—re</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat Renowned Noble Peer,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e came on with full Carreer,</l>
+                  <l>for Church and Kingdoms Glory;</l>
+                  <l>With a Resolution bent,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat the <hi>Romans</hi> should absent,</l>
+                  <pb facs="tcp:35515:4"/>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r else by his Sword he sent</l>
+                  <l>from hence to <hi>Purgatory.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow the Armed Troops came down,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hinking to have gain'd Renown,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut the Fates on them did frown,</l>
+                  <l>for pray observe the Story;</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir Noble gallant Warlike Train,</l>
+                  <l>Which they brought down to <hi>Salisbury-Plain,</hi>
+                  </l>
+                  <l>faith we sent it back again,</l>
+                  <l>and blasted all their Glory.</l>
+               </lg>
+               <lg>
+                  <l>When the <hi>Jesuits</hi> did hear,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Great Prince approached near,</l>
+                  <l>How the Rogues did quake for fear,</l>
+                  <l>and from the Court did scowre;</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oth Father <hi>Petres</hi> and the rest,</l>
+                  <l>Who was for taking off the <hi>Test,</hi>
+                  </l>
+                  <l>An<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> some with <hi>Newgate</hi> is possest,</l>
+                  <l>where they remain this hour.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>A late Monarch's Contemplation upon his Misfortunes.</head>
+               <opener>Tune of, <hi>Soldiers Departure.</hi>
+               </opener>
+               <lg>
+                  <l>AH! how have I fell from Honour,</l>
+                  <l>to the point of deep Dispair,</l>
+                  <l>Fortune now has took upon her,</l>
+                  <l>to Dethrone a Royal Pair:</l>
+                  <pb facs="tcp:35515:4"/>
+                  <l>How, alas! am I Descended</l>
+                  <l>from the top of Majesty,</l>
+                  <l>For to fall thus unbefriended,</l>
+                  <l>to the greatest Misery!</l>
+               </lg>
+               <lg>
+                  <l>I that lived in such Glory,</l>
+                  <l>now am from my Nation hurl'd,</l>
+                  <l>Earthly Crowns are Transitory,</l>
+                  <l>nothing stedfast in this World:</l>
+                  <l>Ah! could I have been contented</l>
+                  <l>to have Govern'd well, I vow,</l>
+                  <l>Then I need not have repented,</l>
+                  <l>But I've lost my Kingdom now.</l>
+               </lg>
+               <lg>
+                  <l>Long I might have Liv'd and Reigned,</l>
+                  <l>and the Royal Scepter Sway'd,</l>
+                  <l>Had I but the Laws maintained,</l>
+                  <l>but I then my Trust betray'd:</l>
+                  <l>Could I have from <hi>Popish</hi> Villains</l>
+                  <l>kept my self reservedly,</l>
+                  <l>I might still have Ruled Millions</l>
+                  <l>of the <hi>English</hi> Gentry.</l>
+               </lg>
+               <lg>
+                  <l>When I think of Father <hi>Petres,</hi>
+                  </l>
+                  <l>sitting at my Council-Board,</l>
+                  <l>And the other <hi>Romish</hi> Creatures,</l>
+                  <l>this fresh sorrows does afford:</l>
+                  <l>Seeing how I was misguided,</l>
+                  <l>while I for <hi>Romes</hi> Cause did stand,</l>
+                  <pb facs="tcp:35515:5"/>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> from my Throne div<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ded,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ted in a Forreign Land.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Royal Word extended,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the coming to my Throne,</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t the Church should be defended</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rough my special Care alone:</l>
+                  <l>this promise I neglected,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>e expos'd to Villans hate,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> not in the least Protected,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t abus'd at any rate.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s blam'd in many Cases,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>anding for the <hi>Roman</hi> Cause,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>stants</hi> turn'd out of places,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o' contrary to all Laws:</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>an Catholicks</hi> I trusted</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith the great Affairs of State,</l>
+                  <l>I now at last am worsted,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his is my unhappy Fate.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, I strove to overpower</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>earned Bishops of Renown,</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t them packing to the <hi>Tower,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urning matters upside down:</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>d my Promise ne're regarded,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s all Men of Reason see,</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r this am now rewarded,</l>
+                  <l>with the loss of Dignity.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:35515:5"/>
+                  <l>Farewel to my Land and Nation,</l>
+                  <l>and my Crown and Scepter too,</l>
+                  <l>For without all Disputation,</l>
+                  <l>I shall never trouble you:</l>
+                  <l>But will spend my days in pleasure,</l>
+                  <l>here in true Felicity,</l>
+                  <l>What I want in Golden Treasure,</l>
+                  <l>peace and quiet shall supply.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The Prince of <hi>Orange</hi> Joyfully Received by th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Citizens of <hi>London.</hi>
+               </head>
+               <opener>To the Tune of, <hi>The Protestants Triumph.</hi>
+               </opener>
+               <lg>
+                  <l>WHen as our great Prince did to <hi>London</hi> repair</l>
+                  <l>Abundance of loud Acclamations was ther<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>All people were filled with Joy and Content,</l>
+                  <l>Since Heaven to them such a Blessing had sent;</l>
+                  <l>A Prince that for <hi>England▪</hi> had ventur'd his Blood</l>
+                  <l>To stand for our Church and all Protestant good</l>
+                  <l>And <hi>Romes</hi> black Designs to Confusion did bring,</l>
+                  <l>
+                     <hi>For which he is justly made</hi> Englands <hi>Great King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Remember the vast Roaring Billows at Sea,</l>
+                  <l>As his Fleet was coming the Nation to free;</l>
+                  <l>Expos'd to the fury and merciless Waves,</l>
+                  <l>Which then might have made the main Ocean the Grave</l>
+                  <l>Had not the great God blest the Glorious Design,</l>
+                  <l>By his wise Providence, good and Divine;</l>
+                  <pb facs="tcp:35515:6"/>
+                  <l>Preserving them under his Heavenly Wing,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ho now is our Soveraign Protestant King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>nce Heaven ordain'd him the Scepter to Sway,</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t every Subject in Duty Obey;</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r he has brought Glory and Peace to the Land,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen as our true Church here did totering stand</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> put all her Enemies quite to the flight,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd Protestants wrongs he resolved to right:</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd therefore in <hi>London</hi> the Bells they did Ring,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Honour of <hi>William</hi> our Protestant King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e had been expos'd to the Malice and Rage</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> those that was truly the Scourge of this Age:</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen scurrillous Rascals did daily run down</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he good Learned Clergy in City and Town;</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> length came a Valliant true Protestant Prince,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho drove all the <hi>Fryars</hi> and <hi>Jesuits</hi> hence;</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d therefore brave Boys, let us merrily Sing,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>now is our Soveraign Protestant King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> sooner he did to the City Arrive,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all drooping Spirits began to revive;</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d highly transported with Raptures of Mirth,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> presence did give to our joys a new Birth:</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>en every true-hearted Protestant Soul,</l>
+                  <l>I drink his good Health in a full flowing Bowl;</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ile loud Acclamations did make the Town ring</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d now He's Great <hi>William</hi> our Protestant King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:35515:6"/>
+                  <l>While Protestants they were releas'd from all fear</l>
+                  <l>The <hi>Jesuits</hi> sneaking hung down their Ears;</l>
+                  <l>Their hot eager Game being quite at an end,</l>
+                  <l>No power was left them their <hi>Mass</hi> to defend;</l>
+                  <l>So straightways they scowre into Foreign Lands,</l>
+                  <l>And one pair of heels was worth two pair of han<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>While true hearted Protestants merrily Sing,</l>
+                  <l>
+                     <hi>As being preserv'd by a Protestant King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>As long as the <hi>Romans</hi> in <hi>Brittain</hi> bore sway,</l>
+                  <l>Good Men was Degraded, and in Prison lay,</l>
+                  <l>Meerly through the Envy and Malice of <hi>Rome,</hi>
+                  </l>
+                  <l>But now here the great Year of <hi>Jubilee</hi>'s come,</l>
+                  <l>And they are releas'd from their <hi>Bondage</hi> once m<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>The Lord in his Mercy was pleas'd to restore</l>
+                  <l>Both them and the Nation from <hi>Romes</hi> bitter st<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>By <hi>William</hi> our Gracious true Protestant King.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Long, long let him flourish in Plenty and Peace▪</l>
+                  <l>Who did both the Church and the Nation rel<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </l>
+                  <l>From those growning Dangers that threatened <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> L<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </l>
+                  <l>Before he took this undertaking in hand:</l>
+                  <l>The Storm and the Tempest is quite overblown</l>
+                  <l>Let Heavenly Angels Guard his Royal Throne</l>
+                  <l>And may his Fame through all Christendom R<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>He being our Soveraing Protestant King.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:35515:7"/>
+               <head>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome</hi> in Confusion: Or, The <hi>Jesuits</hi> put to their Flight.</head>
+               <opener>Tune, <hi>O rare <hi>Popery.</hi>
+                  </hi>
+               </opener>
+               <lg>
+                  <l>O sooner the tydings was brought to the Court</l>
+                  <l>That the Prince of <hi>Orange</hi> would thither sort,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>raightways it spoil'd all the <hi>Jesuits</hi> sport;</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y threw by their <hi>Masses,</hi> then looking like <hi>Asses,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ey did not know whither to run.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>r Trinkets, with all their Cannonical Weeds,</l>
+                  <l>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>wise their long string of their <hi>delicate Beads;</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <hi>Crosses,</hi> as also their multiply'd <hi>Creeds,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir <hi>Popes</hi> special Pardon, all not worth a Farthing,</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ir Trumpery's kickt out of door.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Mass-houses</hi> they <hi>were pull'd down to the ground,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rought to the Fire whatever they found;</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> put the poor <hi>Jesuits</hi> all in a sound,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ing this action, and woful distraction,</l>
+                  <l>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ir labour is utterly lost.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> scratching their <hi>Elbows,</hi> and tearing their <hi>hair,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing quite brought to the point of dispair;</l>
+                  <l>
+                     <hi>Rogues</hi> was for <hi>running,</hi> but did <hi>not know where;</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Plot was <hi>confounded</hi> with horror <hi>surrounded,</hi>
+                  </l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ey cry'd, we are left in the lurch.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:35515:7"/>
+                  <l>Some took up the Guineas, and laid down the C<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </l>
+                  <l>And crying out, here is ten pound for a Horse</l>
+                  <l>But those without Money was much at a loss,</l>
+                  <l>So they were soon taken, by <hi>Peters</hi> forsaken,</l>
+                  <l>Who fled away in a Disguise.</l>
+               </lg>
+               <lg>
+                  <l>In <hi>Newgate</hi> the <hi>Jesuits</hi> both fret and fume,</l>
+                  <l>To see their most dismal and desperate doom,</l>
+                  <l>A thousand times wishing they now was at <hi>Rom<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>With their Holy Father, the which they had <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>then trudge to the three-legged Mare.</l>
+               </lg>
+               <lg>
+                  <l>Now meerly through fear, they are ready to <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>They tell o'er their <hi>Beads,</hi> and pray for each <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>In tears they do make a most woful Complain<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>That they might <hi>befriend</hi> 'em, and <hi>liberty</hi> sen<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>For fear they should swing at the last.</l>
+               </lg>
+               <lg>
+                  <l>Alas! we was running to <hi>Dover</hi> with care,</l>
+                  <l>But the men of <hi>Kent</hi> streight did meet with us</l>
+                  <l>So we was took napping as <hi>Moss</hi> catcht his M<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </l>
+                  <l>And sent up to <hi>London,</hi> we're utterly undone,</l>
+                  <l>We never shall see our Friends more.</l>
+               </lg>
+               <lg>
+                  <l>In Prison we lie without succour or hope,</l>
+                  <l>Expecting to die in a Sanctify'd Rope;</l>
+                  <l>Farewel our dear Friend the Infallible Pope,</l>
+                  <l>We blasted our Glory, a terrible Story,</l>
+                  <l>We here in a Prison remain.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:35515:8"/>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Race which was set us we carefully run,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd thought by our practice the Prize to have won;</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho' hang'd, lets be Sainted for what we have done,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r while here we tarry'd, altho' we miscary'd,</l>
+                  <l>we have been true Servants indeed.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The <hi>Popes</hi> Letter to the <hi>Jesuits</hi> in <hi>Newgate.</hi>
+               </head>
+               <opener>Tune is, <hi>Hey Boys up go we.</hi>
+               </opener>
+               <lg>
+                  <l>MY dearest Son of Holy Church</l>
+                  <l>that does in <hi>Newgate</hi> lye,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho' some has left you in the lurch,</l>
+                  <l>yet do not think that I</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill leave my Children void of hopes,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho, no, you need not fear,</l>
+                  <l>I'll send Consecrated Ropes</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or you my Children dear.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> number there is Sixty six,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee that you use them well,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Hempen Cords of <hi>Hereticks,</hi>
+                  </l>
+                  <l>send some to <hi>Pluto</hi>'s Cell?</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>erefore I took this special care,</l>
+                  <l>those Holy Cords to make,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wear by good Saint <hi>Peters</hi> Chair,</l>
+                  <l>I will not you forsake.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> not reflect on what is past,</l>
+                  <l>My Worthy Sons, for why;</l>
+                  <l>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>o' <hi>Tyburn</hi> be your Lot at last,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ou <hi>Romish</hi> Martyrs dye;</l>
+                  <pb facs="tcp:35515:8"/>
+                  <l>Therefore be not at all surpriz'd,</l>
+                  <l>tho Death may be your doom,</l>
+                  <l>For you shall all be Cannoniz'd</l>
+                  <l>
+                     <hi>amongst the Sants at Rome.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I'll keep you free from all the pain,</l>
+                  <l>of <hi>Purgatory</hi> too,</l>
+                  <l>Tho' some unworthily complain,</l>
+                  <l>yet still my care's for you:</l>
+                  <l>You know 'tis I that keep the Keys,</l>
+                  <l>my loving Children dear,</l>
+                  <l>And none goes there but whom I please,</l>
+                  <l>therefore you need not fear.</l>
+               </lg>
+               <lg>
+                  <l>Those that obeys my Holy Will,</l>
+                  <l>shall well rewarded be,</l>
+                  <l>Betray, nay, Poyson, Stab and Kill,</l>
+                  <l>'tis all a case to me:</l>
+                  <l>Since it is for the Holy Cause,</l>
+                  <l>in Duty ne're give o're,</l>
+                  <l>And you shall have my loud Applause,</l>
+                  <l>what can you wish for more.</l>
+               </lg>
+               <lg>
+                  <l>I hear indeed you have been crost,</l>
+                  <l>in all you went about,</l>
+                  <l>But tho' your labour has been lost</l>
+                  <l>I know you was Devout:</l>
+                  <l>Therefere when Hanging is your Doom,</l>
+                  <l>we'll sing your lasting praise,</l>
+                  <l>And I your Holy Dad at <hi>Rome,</hi>
+                  </l>
+                  <l>will make yon Sainted Days.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:35515:9"/>
+               <head>The Valiant Souldier's Resolution to Conquer <hi>Tyrcon<g ref="char:EOLhyphen"/>nel</hi> and his <hi>Irish</hi> Crew.</head>
+               <opener>Tune of, <hi>Lilli burlero.</hi>
+               </opener>
+               <lg>
+                  <l>NOble brave hearts of Courage so bold,</l>
+                  <l>Let us away to <hi>Ireland</hi> now;</l>
+                  <l>While we do Fight for Silver and Gold,</l>
+                  <l>We'll make those Papist Bog-trotters Bow</l>
+                  <l>To Great <hi>William</hi>'s Crown and Scepter,</l>
+                  <l>Therefore brave Boys, now let us away,</l>
+                  <l>
+                     <hi>Our Cannons, like Thunder, shall fill them with wonder,</hi>
+                  </l>
+                  <l>
+                     <hi>For <hi>Protestant</hi> Boys shall carry the day.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Tis not <hi>Tyrconnel</hi> ever can stand,</l>
+                  <l>Should he have forty thousand and more,</l>
+                  <l>We'll have as many under Command,</l>
+                  <l>Such that shall lay them sprawling in Gore;</l>
+                  <l>If they dare but stand the Battle,</l>
+                  <l>Boys, we will shew them <hi>English</hi> Play,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Our Cannons like Thunder, shall fill them with wonder,</hi>
+                     </l>
+                     <l>
+                        <hi>For <hi>Protestant</hi> Boys shall carry the day.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Ratling Drums, and Trumpets likewise,</l>
+                  <l>Into the Field our Musick shall be,</l>
+                  <l>Where we <hi>Tyrconnel</hi> soon will surprize,</l>
+                  <l>When he our Armed Forces shall see</l>
+                  <pb facs="tcp:35515:9"/>
+                  <l>In a Noble Warlike Posture,</l>
+                  <l>shining in Armour gallant and gay,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Our Cannons like Thunder, shall fill them with wonder,</hi>
+                     </l>
+                     <l>
+                        <hi>for <hi>Protestant</hi> Boys shall carry the day.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Cowards we know are subject to Flinch,</l>
+                  <l>when he shall meet a Powerful Foe;</l>
+                  <l>But a true Soul won't give back an inch,</l>
+                  <l>till he has laid his Enemy low;</l>
+                  <l>We'll Charge to the highest Center,</l>
+                  <l>valliantly still maintaining the Fray;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Our Cannons like Thunder, shall fill them with wonder,</hi>
+                     </l>
+                     <l>
+                        <hi>for <hi>Protestant</hi> Boys shall carry the day.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Tis not <hi>Tyrconnel</hi> e're shall prevail,</l>
+                  <l>or in the least our Courage surprize,</l>
+                  <l>We'll send them Lead in showers like Hail,</l>
+                  <l>while our Smoak shall darken the Skies:</l>
+                  <l>Send them hence to <hi>Purgatory,</hi>
+                  </l>
+                  <l>while they unto Saint <hi>Patrick</hi> Pray;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Our Cannons like Thunder, shall fill them with wonder,</hi>
+                     </l>
+                     <l>
+                        <hi>for <hi>Protestant</hi> Boys shall carry the day.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>For I protest if they will not yield,</l>
+                  <l>suffer they shall for Uillanous Deeds,</l>
+                  <l>For when our Swords have Reaped the field,</l>
+                  <l>of all those rank base <hi>Irish</hi> Weeds:</l>
+                  <pb facs="tcp:35515:10"/>
+                  <l>We'll enjoy their whole Possessions,</l>
+                  <l>then my true hearts let's now march away</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Our Cannons like Thunder, shall fill them with wonder,</hi>
+                     </l>
+                     <l>
+                        <hi>for <hi>Protestant</hi> Boys shall carry the day.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="song">
+               <head>The deserved Praise of the <hi>West.</hi>
+               </head>
+               <opener>To the Tune of, <hi>Grim King of the Ghosts.</hi>
+               </opener>
+               <lg>
+                  <l>THe Glory and Fame of the <hi>West,</hi>
+                  </l>
+                  <l>let every honest Soul sing,</l>
+                  <l>For when the whole Land was opprest,</l>
+                  <l>from thence all our Blessings did spring;</l>
+                  <l>Tho' once they was routed full sore,</l>
+                  <l>yet they have took Courage now since,</l>
+                  <l>Resolving to venture once more,</l>
+                  <l>
+                     <hi>To bring in a Protestant Prince.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>They vow'd they wou'd rally again,</l>
+                  <l>their Courage being vigorous hot;</l>
+                  <l>The Blood of their innocent Men,</l>
+                  <l>alas! was not clearly forgot;</l>
+                  <l>And seeing the valliant brave <hi>Dutch,</hi>
+                  </l>
+                  <l>come here for the Nations defence,</l>
+                  <l>They vow'd they wou'd have t'other touch,</l>
+                  <l>
+                     <hi>To bring in a Protestant Prince.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:35515:10"/>
+                  <l>We know there was many a one,</l>
+                  <l>that suffered Deaths too severe;</l>
+                  <l>The Father remember'd the Son,</l>
+                  <l>the Women their Husbands so dear,</l>
+                  <l>Who fell a meer Sacrifice</l>
+                  <l>to <hi>Rome</hi> without any offence,</l>
+                  <l>Therefore they resolved to r<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se,</l>
+                  <l>
+                     <hi>to stand by a Protestant Prince.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When <hi>M—</hi> was put to the Rout,</l>
+                  <l>some honest good Yeomen did bleed,</l>
+                  <l>And Soldiers both valliant and stout,</l>
+                  <l>was brought to the slaughter indeed,</l>
+                  <l>And by an unmerciful hand,</l>
+                  <l>contrary to Reason or Sence,</l>
+                  <l>Therefore we resolved to stand</l>
+                  <l>
+                     <hi>to bring in this Protestant Prince.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Person once ow'd us a grudge,</l>
+                  <l>who bore a great sway in the Court,</l>
+                  <l>Without a good Jury or Judge;</l>
+                  <l>he hang'd many meerly for sport;</l>
+                  <l>This V<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llian was given to bawl,</l>
+                  <l>and vanter men ou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of their Sence,</l>
+                  <l>But now let him answer for all,</l>
+                  <l>
+                     <hi>we having a Protestant Prince.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Had Mercy been mixt with their Rage,</l>
+                  <l>their actions had been more Divine,</l>
+                  <pb facs="tcp:35515:11"/>
+                  <l>But Cruelty mounted the Stage,</l>
+                  <l>and Murthers was all the design,</l>
+                  <l>The Widdow and Fatherless too,</l>
+                  <l>no Friend had they in their defence,</l>
+                  <l>But now all their Joys will renew,</l>
+                  <l>
+                     <hi>under this Good Protestant Prince.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>No sooner this powerful Fleet,</l>
+                  <l>approach the Banks of our Shore,</l>
+                  <l>But them we run straightways to meet,</l>
+                  <l>and bidding them thrice welcome o're,</l>
+                  <l>Appointed by Heaven he came,</l>
+                  <l>to drive all the <hi>Jesuits</hi> hence,</l>
+                  <l>Let's honour the Glory and Fame,</l>
+                  <l>
+                     <hi>of such a True Protestant Prince.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then every Protestant Soul,</l>
+                  <l>expecting a speedy relief,</l>
+                  <l>Begin in a sweet flowing Bowl,</l>
+                  <l>to drown all the Relicks of Grief;</l>
+                  <l>A Health to His Highness they cry'd,</l>
+                  <l>who stands for the Nations defence,</l>
+                  <l>We'll Valliantly Fight by his side,</l>
+                  <l>
+                     <hi>for he's a brave Protestant Prince.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:35515:11"/>
+               <head>A Touch of the <hi>Jesuit-Plots,</hi> from the Reign of Queen <hi>Elizabeth,</hi> to this present Year.</head>
+               <opener>Tune is, <hi>Summer-time.</hi>
+               </opener>
+               <lg>
+                  <l>WHen <hi>Protestants</hi> would live at peace,</l>
+                  <l>and in all true Obedience stand;</l>
+                  <l>Then <hi>Jesuits</hi> love to increase</l>
+                  <l>fresh troubles in a quiet Land.</l>
+               </lg>
+               <lg>
+                  <l>Their restless Souls are ne're at ease,</l>
+                  <l>their <hi>Treasons</hi> are to that degree,</l>
+                  <l>They'll cross the raging roaring Seas,</l>
+                  <l>to perpetrate each Villany.</l>
+               </lg>
+               <lg>
+                  <l>In former Ages long a-go,</l>
+                  <l>they Ploted both in <hi>France</hi> and <hi>Spain,</hi>
+                  </l>
+                  <l>Poor <hi>England's</hi> final overthrow,</l>
+                  <l>tho' they their Will cou'd not obtain.</l>
+               </lg>
+               <lg>
+                  <l>Our Gracious Queen <hi>Elizabeth,</hi>
+                  </l>
+                  <l>of ever Blessed Memory,</l>
+                  <l>Was often troubled here on Earth,</l>
+                  <l>with their ungrateful Villany.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Spanish</hi> vast <hi>Armado</hi> Fleet,</l>
+                  <l>came Sailing to our <hi>English</hi> Coast,</l>
+                  <l>Resolving never to Retreat,</l>
+                  <l>'till they had took this Land by force.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:35515:12"/>
+                  <l>But the Renowned Captain <hi>Drake,</hi>
+                  </l>
+                  <l>he did with this proud <hi>Spaniard</hi> meet,</l>
+                  <l>And presently did burn and take,</l>
+                  <l>the greatest part of all his Fleet.</l>
+               </lg>
+               <lg>
+                  <l>Yet notwithstanding all their Charge,</l>
+                  <l>was blasted by a power great;</l>
+                  <l>They did their <hi>Treasons</hi> still inlarge,</l>
+                  <l>and Plotted at another Rate.</l>
+               </lg>
+               <lg>
+                  <l>For do but view King <hi>James</hi>'s Reign,</l>
+                  <l>and then you soon may understand;</l>
+                  <l>They laid a dreadful powder Train</l>
+                  <l>to slay the Pillars of the Land.</l>
+               </lg>
+               <lg>
+                  <l>And by a Hellish Fatal Blow,</l>
+                  <l>it was their wicked base intent,</l>
+                  <l>The <hi>House of Lords</hi> to overthrow,</l>
+                  <l>and <hi>Commons</hi> both in <hi>Parliament.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sprinkle the Air with Princely Blood,</l>
+                  <l>and mangl'd shatter'd Limbs of those,</l>
+                  <l>Who sate in Court for <hi>England</hi>'s good,</l>
+                  <l>but God was pleas'd to interpose.</l>
+               </lg>
+               <lg>
+                  <l>That dreadful <hi>Treason</hi> to prevent,</l>
+                  <l>which might have overthrown the Land,</l>
+                  <l>Then bringing them to punishment,</l>
+                  <l>who took that Bloody Cause in Hand.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:35515:12"/>
+                  <l>We may behold from Age to Age,</l>
+                  <l>their study is to bring us low:</l>
+                  <l>They vent theit most malicious Rage,</l>
+                  <l>although it proves their overthrow.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Charles</hi> the Second Reigned King,</l>
+                  <l>his Life they studied to betray,</l>
+                  <l>Yet under Gods protecting Wing,</l>
+                  <l>he was preserved many a day.</l>
+               </lg>
+               <lg>
+                  <l>There's <hi>Harcourt, Whitebread,</hi> and the rest,</l>
+                  <l>which I shall here forbear to Name;</l>
+                  <l>They harbour'd Treason in each Breast,</l>
+                  <l>and brought themselves to open shame.</l>
+               </lg>
+               <lg>
+                  <l>At length Great <hi>Charles</hi> he dy'd in peace,</l>
+                  <l>that price of Royal Dignity,</l>
+                  <l>Then <hi>Jesuits</hi> did soon encrease,</l>
+                  <l>who strove to bring in Popery.</l>
+               </lg>
+               <lg>
+                  <l>But Heaven did a Blessing bring,</l>
+                  <l>and suddenly did change the Scene,</l>
+                  <l>Ordaining <hi>William</hi> to be King,</l>
+                  <l>and <hi>Mary</hi> our Most Gracious Queen.</l>
+               </lg>
+               <lg>
+                  <l>God grant them many Years to Reign,</l>
+                  <l>in Peace and full Prosperity,</l>
+                  <l>The Church will flourish then amain,</l>
+                  <l>and Protestants most happy be.</l>
+               </lg>
+            </div>
+            <div type="song">
+               <pb facs="tcp:35515:13"/>
+               <head>The Protestants Loyal Health.</head>
+               <opener>Tune of, <hi>Joy to the Bridegroom.</hi>
+               </opener>
+               <lg>
+                  <l>LEt e'ry Loyal hearted Soul,</l>
+                  <l>Now fill a pleasant smiling Bowl,</l>
+                  <l>And let a Health go freely round,</l>
+                  <l>To those by whom our joys are Crown'd,</l>
+                  <l>Now seated in the Royal Throne,</l>
+                  <l>a sweeter Health was never known.</l>
+               </lg>
+               <lg>
+                  <l>Boys drink about both brisk and airy,</l>
+                  <l>To Good King <hi>William</hi> and Queen <hi>Mary,</hi>
+                  </l>
+                  <l>Who does the Royal Scepter Sway,</l>
+                  <l>And Popery has purg'd away.</l>
+                  <l>The Land will flourish now in Peace,</l>
+                  <l>Let Love and Loyalty increase.</l>
+               </lg>
+               <lg>
+                  <l>And likewise fill another Glass,</l>
+                  <l>And freely, freely let it pass,</l>
+                  <l>To good Prince <hi>George,</hi> and Princess <hi>Ann,</hi>
+                  </l>
+                  <l>Now let us not disputing stand,</l>
+                  <l>But bend our Knee unto the Ground,</l>
+                  <l>And let these Loyal Healths go Round.</l>
+               </lg>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
